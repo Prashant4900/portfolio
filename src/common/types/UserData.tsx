@@ -35,7 +35,6 @@ interface UserData {
   name: string;
   email: string;
   phone: string;
-  link: string;
   company: string;
   location: string;
   about: string;
