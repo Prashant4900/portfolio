@@ -48,7 +48,7 @@ import {FC} from "react";
                                         to="contact"
                                         className="mr-4 rounded-xl border-2 border-black bg-black px-6 py-4 font-bold text-white transition-all hover:-translate-y-0.5 hover:border-blue-500 hover:bg-blue-500"
                                     >
-                                        Get in touch
+                                        Resume
                                     </Link>
                                     <Link
                                         to="projects"
