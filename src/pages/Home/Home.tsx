@@ -45,7 +45,7 @@ import {FC} from "react";
                                 </div>
                                 <div className="mt-5 whitespace-nowrap text-center md:text-left">
                                     <Link
-                                        to="contact"
+                                        to="https://firebasestorage.googleapis.com/v0/b/personal-7a60e.appspot.com/o/Prashant-Nigam-Resume.pdf?alt=media&token=06ff35b1-547d-4e25-a5bb-c607ce096a7d"
                                         className="mr-4 rounded-xl border-2 border-black bg-black px-6 py-4 font-bold text-white transition-all hover:-translate-y-0.5 hover:border-blue-500 hover:bg-blue-500"
                                     >
                                         Resume
